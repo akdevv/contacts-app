@@ -23,6 +23,6 @@ This is a simple SMS messaging app that allows users to send OTP messages to the
 
 ### Live Link:
 
-[Live Demo](vercel.com)
+[Live Demo](https://contacts-app-pi.vercel.app/)
 
 This project demonstrates basic integration with Twilio for sending SMS through a React frontend and Vercel backend, making it easy to extend or customize for more advanced features.
