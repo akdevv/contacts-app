@@ -1,6 +1,6 @@
 # SMS Messaging App
 
-## This is a simple SMS messaging app that allows users to send OTP messages to their contacts using the Twilio API. It features a contact list, message composition, and a log of sent messages stored in localStorage.
+This is a simple SMS messaging app that allows users to send OTP messages to their contacts using the Twilio API. It features a contact list, message composition, and a log of sent messages stored in localStorage.
 
 ## Technologies Used
 
@@ -23,9 +23,6 @@
 
 ### Live Link:
 
-Live Demo
-
-GitHub Repository
-GitHub Code
+[Live Demo](vercel.com)
 
 This project demonstrates basic integration with Twilio for sending SMS through a React frontend and Vercel backend, making it easy to extend or customize for more advanced features.
