@@ -1,0 +1,64 @@
+{
+	"contacts": [
+		{
+			"id": 1,
+			"firstName": "Aarav",
+			"lastName": "Patel",
+			"phoneNumber": "+919876543210"
+		},
+		{
+			"id": 2,
+			"firstName": "Zara",
+			"lastName": "Khan",
+			"phoneNumber": "+919876543211"
+		},
+		{
+			"id": 3,
+			"firstName": "Vikram",
+			"lastName": "Singh",
+			"phoneNumber": "+919876543212"
+		},
+		{
+			"id": 4,
+			"firstName": "Priya",
+			"lastName": "Sharma",
+			"phoneNumber": "+919876543213"
+		},
+		{
+			"id": 5,
+			"firstName": "Rahul",
+			"lastName": "Gupta",
+			"phoneNumber": "+919876543214"
+		},
+		{
+			"id": 6,
+			"firstName": "Anaya",
+			"lastName": "Reddy",
+			"phoneNumber": "+919876543215"
+		},
+		{
+			"id": 7,
+			"firstName": "Arjun",
+			"lastName": "Malhotra",
+			"phoneNumber": "+919876543216"
+		},
+		{
+			"id": 8,
+			"firstName": "Neha",
+			"lastName": "Kapoor",
+			"phoneNumber": "+919876543217"
+		},
+		{
+			"id": 9,
+			"firstName": "Rohan",
+			"lastName": "Desai",
+			"phoneNumber": "+919876543218"
+		},
+		{
+			"id": 10,
+			"firstName": "Kavya",
+			"lastName": "Joshi",
+			"phoneNumber": "+919876543219"
+		}
+	]
+}
